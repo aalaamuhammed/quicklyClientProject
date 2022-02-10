@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">quickly</string>
+    <string name="facebook_app_id">452256373241475</string>
+<!-- <string name="fb_login_protocol_scheme">fb012345678912345-</string> -->
+<string name="server_client_id">881023266658-ngs771cj97q73kj5l48os965famt8q6n.apps.googleusercontent.com</string>
+</resources>

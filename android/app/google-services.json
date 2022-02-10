@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "881023266658",
+    "project_id": "quickly-chat-app",
+    "storage_bucket": "quickly-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881023266658:android:7243f01a853add9fe5463b",
+        "android_client_info": {
+          "package_name": "com.quickly.client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881023266658-1q16s0henio4hdvjt2onfbdus9krfphr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quickly.client",
+            "certificate_hash": "fc256a0ad7795f972b8ecae0b0687ad5ec73cba7"
+          }
+        },
+        {
+          "client_id": "881023266658-516q11cng0i2sl2821ufriimbmn5idlq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quickly.client",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "881023266658-ngs771cj97q73kj5l48os965famt8q6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSozD-9WBoFEZX2D7Lv_WEMu0xnOVWsKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881023266658-ngs771cj97q73kj5l48os965famt8q6n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "881023266658-kbud2b06gui2devbag4g317bsfo8o2ag.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.quickly"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

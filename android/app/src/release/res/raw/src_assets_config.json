@@ -1,0 +1,28 @@
+{
+    "danger": "#cc3333",
+    "info": "#3399ff",
+    "success": "#588157",
+    "warning": "#e5383b",
+    "oldcolor":"#4a4e69",
+    "arFonts":"'Almarai', sans-serif ",
+    "enFonts":"'Nanum Gothic', sans-serif ",
+    "colors":{
+      "dangerColor":"#FF0000",
+      "successColor":"#317B01",
+      "yallowColor":"#FAC900",
+      "mainBgColor":"#FE8E00",
+      "maindarkcolor":"#232323",
+      "mainFontColor":"#FAFBFE",
+      "lightGrayColor":"#DFDFDF",
+      "darkGrayColor":"#B8B8B8"
+
+    },
+    "sliderimages" :[
+      "https://raw.githubusercontent.com/sdras/sample-vue-shop/master/dist/shoe1.png",
+      "https://raw.githubusercontent.com/sdras/sample-vue-shop/master/dist/jacket1.png",
+      "https://raw.githubusercontent.com/sdras/sample-vue-shop/master/dist/jacket2.png",
+      "https://raw.githubusercontent.com/sdras/sample-vue-shop/master/dist/hat1.png",
+      "https://raw.githubusercontent.com/sdras/sample-vue-shop/master/dist/shoe1.png",
+      "https://raw.githubusercontent.com/sdras/sample-vue-shop/master/dist/shoe1.png"
+    ]
+  }
